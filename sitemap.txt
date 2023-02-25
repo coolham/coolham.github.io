@@ -1,3 +1,8 @@
+http://coolham.github.io/2023/02/25/ffmpeg-help/
+http://coolham.github.io/2023/02/21/about-chat-gpt/
+http://coolham.github.io/2023/02/12/hexo-config/
 http://coolham.github.io/about/index.html
 http://coolham.github.io/2023/02/12/hello-world/
 http://coolham.github.io/
+http://coolham.github.io/tags/software/
+http://coolham.github.io/tags/blog/

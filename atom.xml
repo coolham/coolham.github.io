@@ -6,7 +6,7 @@
   <link href="http://coolham.github.io/atom.xml" rel="self"/>
   
   <link href="http://coolham.github.io/"/>
-  <updated>2023-02-12T06:53:47.242Z</updated>
+  <updated>2023-02-25T06:10:15.846Z</updated>
   <id>http://coolham.github.io/</id>
   
   <author>
@@ -15,6 +15,73 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ffmpeg-help</title>
+    <link href="http://coolham.github.io/2023/02/25/ffmpeg-help/"/>
+    <id>http://coolham.github.io/2023/02/25/ffmpeg-help/</id>
+    <published>2023-02-25T06:08:34.000Z</published>
+    <updated>2023-02-25T06:10:15.846Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;ffmpeg使用&quot;&gt;&lt;a href=&quot;#ffmpeg使用&quot; class=&quot;headerlink&quot; title=&quot;ffmpeg使用&quot;&gt;&lt;/a&gt;ffmpeg使用&lt;/h1&gt;&lt;h2 id=&quot;视频格式转换&quot;&gt;&lt;a href=&quot;#视频格式转换&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>about_chat_gpt</title>
+    <link href="http://coolham.github.io/2023/02/21/about-chat-gpt/"/>
+    <id>http://coolham.github.io/2023/02/21/about-chat-gpt/</id>
+    <published>2023-02-21T06:02:28.000Z</published>
+    <updated>2023-02-21T06:21:19.229Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;关于ChatGPT&quot;&gt;&lt;a href=&quot;#关于ChatGPT&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo配置</title>
+    <link href="http://coolham.github.io/2023/02/12/hexo-config/"/>
+    <id>http://coolham.github.io/2023/02/12/hexo-config/</id>
+    <published>2023-02-12T10:36:00.000Z</published>
+    <updated>2023-02-12T10:41:31.158Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Hexo-Config&quot;&gt;&lt;a href=&quot;#Hexo-Config&quot; class=&quot;headerlink&quot; title=&quot;Hexo Config&quot;&gt;&lt;/a&gt;Hexo Config&lt;/h1&gt;&lt;h2 id=&quot;Themes-Next&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="software" scheme="http://coolham.github.io/tags/software/"/>
+    
+    <category term="blog" scheme="http://coolham.github.io/tags/blog/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
