@@ -51,4 +51,28 @@
         <tag>blog</tag>
       </tags>
   </entry>
+  <entry>
+    <title>download_kindle</title>
+    <url>/2023/03/11/download-kindle/</url>
+    <content><![CDATA[<h1 id="Download-your-chinese-kindle"><a href="#Download-your-chinese-kindle" class="headerlink" title="Download your chinese kindle"></a>Download your chinese kindle</h1><h2 id="Kindle-download-helper"><a href="#Kindle-download-helper" class="headerlink" title="Kindle_download_helper"></a>Kindle_download_helper</h2><p><a href="https://github.com/yihong0618/Kindle_download_helper">Kindle_download_helper</a></p>
+<p>主要步骤：</p>
+<ul>
+<li>pip3 install kindle_download </li>
+<li>git clone <a href="https://github.com/yihong0618/Kindle_download_helper.git">https://github.com/yihong0618/Kindle_download_helper.git</a> &amp;&amp; cd Kindle_download_helper</li>
+<li>pip3 install -r requirements.txt</li>
+<li>python3 kindle.py  –dedrm –cn  ## –dedrm 移除 DRM</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>chat-gpt-write-ppt</title>
+    <url>/2023/02/25/chat-gpt-write-ppt/</url>
+    <content><![CDATA[<h1 id="让ChatGPT帮你做PPT"><a href="#让ChatGPT帮你做PPT" class="headerlink" title="让ChatGPT帮你做PPT"></a>让ChatGPT帮你做PPT</h1><h2 id="需求"><a href="#需求" class="headerlink" title="需求"></a>需求</h2><p>把你的需求描述给ChatGPT, 让它写一段VBA程序，需求越清晰越好</p>
+<p>例如：<br>“我想写一段PowerPoint的vba，要求如下：新建10个页面，设置页面格式为图片填充，图片随机引从一个文件夹中引用，文件夹路径是”C:\tmp\pic”， 并在每页居中插入一个中文标题“请输入你的大标题”，字体颜色为白色，字体大小为30好，字体选择微软雅黑，在页面靠左对齐”</p>
+<h2 id="生成PPT"><a href="#生成PPT" class="headerlink" title="生成PPT"></a>生成PPT</h2><ul>
+<li>打开PPT， 在自定义功能区启用[开发者工具]</li>
+<li>在开发中工具里点击Visual Basic，新建一个模板把代码贴进去，点击运行</li>
+</ul>
+]]></content>
+  </entry>
 </search>

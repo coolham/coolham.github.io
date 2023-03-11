@@ -6,7 +6,7 @@
   <link href="http://coolham.github.io/atom.xml" rel="self"/>
   
   <link href="http://coolham.github.io/"/>
-  <updated>2023-02-25T06:10:15.846Z</updated>
+  <updated>2023-03-11T09:24:48.389Z</updated>
   <id>http://coolham.github.io/</id>
   
   <author>
@@ -15,6 +15,48 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>download_kindle</title>
+    <link href="http://coolham.github.io/2023/03/11/download-kindle/"/>
+    <id>http://coolham.github.io/2023/03/11/download-kindle/</id>
+    <published>2023-03-11T09:21:59.000Z</published>
+    <updated>2023-03-11T09:24:48.389Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Download-your-chinese-kindle&quot;&gt;&lt;a href=&quot;#Download-your-chinese-kindle&quot; class=&quot;headerlink&quot; title=&quot;Download your chinese</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>chat-gpt-write-ppt</title>
+    <link href="http://coolham.github.io/2023/02/25/chat-gpt-write-ppt/"/>
+    <id>http://coolham.github.io/2023/02/25/chat-gpt-write-ppt/</id>
+    <published>2023-02-25T06:31:34.000Z</published>
+    <updated>2023-02-25T06:34:51.949Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;让ChatGPT帮你做PPT&quot;&gt;&lt;a href=&quot;#让ChatGPT帮你做PPT&quot; class=&quot;headerlink&quot; title=&quot;让ChatGPT帮你做PPT&quot;&gt;&lt;/a&gt;让ChatGPT帮你做PPT&lt;/h1&gt;&lt;h2 id=&quot;需求&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>ffmpeg-help</title>
