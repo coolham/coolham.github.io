@@ -76,8 +76,41 @@
 ]]></content>
   </entry>
   <entry>
+    <title>ChatGPT-11-format</title>
+    <url>/2023/03/12/ChatGPT-11-format/</url>
+    <content><![CDATA[<h1 id="ChatGPT-可以生成的-11-种强大的输出格式"><a href="#ChatGPT-可以生成的-11-种强大的输出格式" class="headerlink" title="ChatGPT 可以生成的 11 种强大的输出格式"></a>ChatGPT 可以生成的 11 种强大的输出格式</h1><h2 id="1-Graph"><a href="#1-Graph" class="headerlink" title="1. Graph"></a>1. Graph</h2><h3 id="Example-Prompt"><a href="#Example-Prompt" class="headerlink" title="Example Prompt:"></a>Example Prompt:</h3><p>Create a line graph showing the Google search trends for a particular AI over the past year.</p>
+<p><img src="/2023/03/12/ChatGPT-11-format/chat-01.jfif"></p>
+<h2 id="2-Checklist"><a href="#2-Checklist" class="headerlink" title="2. Checklist"></a>2. Checklist</h2><h3 id="Example-Prompt-1"><a href="#Example-Prompt-1" class="headerlink" title="Example Prompt:"></a>Example Prompt:</h3><p>Create a checklist for preparing for a job interview.</p>
+<p><img src="/2023/03/12/ChatGPT-11-format/chat-02.jfif"></p>
+<h2 id="3-Scorecard"><a href="#3-Scorecard" class="headerlink" title="3. Scorecard"></a>3. Scorecard</h2><h3 id="Example-Prompt-2"><a href="#Example-Prompt-2" class="headerlink" title="Example Prompt:"></a>Example Prompt:</h3><p>Can you generate output in a scorecard format on how apple stocks performed against tesla in past 5 years.</p>
+<p><img src="/./pic/chat-03.jfif"></p>
+<h2 id="4-JSON"><a href="#4-JSON" class="headerlink" title="4. JSON"></a>4. JSON</h2><h3 id="Example-Prompt-3"><a href="#Example-Prompt-3" class="headerlink" title="Example Prompt:"></a>Example Prompt:</h3><p>Can you provide details of the last 2 FIFA world cup winners in JSON format? </p>
+<p>I want the following to include a date, opponent name, winner name, score, and stadium name.</p>
+<p><img src="/./pic/chat-04.jfif"></p>
+<h2 id="5-Chart"><a href="#5-Chart" class="headerlink" title="5. Chart"></a>5. Chart</h2><h3 id="Example-Prompt-4"><a href="#Example-Prompt-4" class="headerlink" title="Example Prompt:"></a>Example Prompt:</h3><p>Johnny made $50k sale in Jan, $40K in Feb and $30k in March. </p>
+<p>Shaun made $60k sale in Jan, $20K in Feb and $75k in March. </p>
+<p>Can you put this data in a bar chart?</p>
+<p><img src="/./pic/chat-05.jfif"></p>
+<h2 id="6-Table"><a href="#6-Table" class="headerlink" title="6. Table"></a>6. Table</h2><h3 id="Example-Prompt-5"><a href="#Example-Prompt-5" class="headerlink" title="Example Prompt:"></a>Example Prompt:</h3><p>Can you provide details of the last 2 FIFA world cup winners in JSON format? </p>
+<p>I want the following to include a date, opponent name, winner name, score, and stadium name.</p>
+<p><img src="/./pic/chat-06.jfif"></p>
+<h2 id="7-Code"><a href="#7-Code" class="headerlink" title="7. Code"></a>7. Code</h2><h3 id="Example-Prompt-6"><a href="#Example-Prompt-6" class="headerlink" title="Example Prompt:"></a>Example Prompt:</h3><p>Write { Code you want to generate } in { programming language }</p>
+<p><img src="/./pic/chat-07.jfif"></p>
+<h2 id="8-CSV"><a href="#8-CSV" class="headerlink" title="8. CSV"></a>8. CSV</h2><h3 id="Example-Prompt-7"><a href="#Example-Prompt-7" class="headerlink" title="Example Prompt:"></a>Example Prompt:</h3><p>Can you provide details of the last 2 ICC cricket world cup winners in CSV format? </p>
+<p>I want the following to be included in it a date, opponent name, winner name, score, stadium name.</p>
+<p><img src="/./pic/chat-08.jfif"></p>
+<h2 id="9-XML-x2F-YAML"><a href="#9-XML-x2F-YAML" class="headerlink" title="9. XML&#x2F; YAML"></a>9. XML&#x2F; YAML</h2><h3 id="Example-Prompt-8"><a href="#Example-Prompt-8" class="headerlink" title="Example Prompt:"></a>Example Prompt:</h3><p>Give me data on the USA population for the years 2012 and 2013. I want the total count with males and females breakdown in XML and YAML format.</p>
+<p><img src="/./pic/chat-09.jfif"></p>
+<h2 id="10-SVG"><a href="#10-SVG" class="headerlink" title="10. SVG"></a>10. SVG</h2><h3 id="Example-Prompt-9"><a href="#Example-Prompt-9" class="headerlink" title="Example Prompt:"></a>Example Prompt:</h3><p>Create SVG of a smiling face.</p>
+<p><img src="/./pic/chat-10.jfif"></p>
+<h2 id="11-Diagrams"><a href="#11-Diagrams" class="headerlink" title="11. Diagrams"></a>11. Diagrams</h2><h3 id="Example-Prompt-10"><a href="#Example-Prompt-10" class="headerlink" title="Example Prompt:"></a>Example Prompt:</h3><p>Can you provide me with a diagram of the solar system?</p>
+<p><img src="/./pic/chat-11.jfif"></p>
+<h2 id="Ref"><a href="#Ref" class="headerlink" title="Ref"></a>Ref</h2><p>11 Powerful output formats ChatGPT can produce ( with examples ) 🧵:<br>(<a href="https://twitter.com/MakadiaHarsh/status/1634215629225070593?t=cZcV6HpNO7UdUH_ycEWL_g&s=03">https://twitter.com/MakadiaHarsh/status/1634215629225070593?t=cZcV6HpNO7UdUH_ycEWL_g&amp;s=03</a>) </p>
+]]></content>
+  </entry>
+  <entry>
     <title>ChatGPT_format</title>
-    <url>/2023/03/12/ChatGPT-format/</url>
+    <url>/2023/03/12/ChatGPT-format1/</url>
     <content><![CDATA[<h1 id="ChatGPT-可以生成的-11-种强大的输出格式"><a href="#ChatGPT-可以生成的-11-种强大的输出格式" class="headerlink" title="ChatGPT 可以生成的 11 种强大的输出格式"></a>ChatGPT 可以生成的 11 种强大的输出格式</h1><h2 id="1-Graph"><a href="#1-Graph" class="headerlink" title="1. Graph"></a>1. Graph</h2><h3 id="Example-Prompt"><a href="#Example-Prompt" class="headerlink" title="Example Prompt:"></a>Example Prompt:</h3><p>Create a line graph showing the Google search trends for a particular AI over the past year.</p>
 <p><img src="/pic202203/chat-01.jfif"></p>
 <h2 id="2-Checklist"><a href="#2-Checklist" class="headerlink" title="2. Checklist"></a>2. Checklist</h2><h3 id="Example-Prompt-1"><a href="#Example-Prompt-1" class="headerlink" title="Example Prompt:"></a>Example Prompt:</h3><p>Create a checklist for preparing for a job interview.</p>
