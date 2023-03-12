@@ -83,7 +83,7 @@
 <h2 id="2-Checklist"><a href="#2-Checklist" class="headerlink" title="2. Checklist"></a>2. Checklist</h2><h3 id="Example-Prompt-1"><a href="#Example-Prompt-1" class="headerlink" title="Example Prompt:"></a>Example Prompt:</h3><p>Create a checklist for preparing for a job interview.</p>
 <p><img src="/2023/03/12/ChatGPT-11-format/chat-02.jfif"></p>
 <h2 id="3-Scorecard"><a href="#3-Scorecard" class="headerlink" title="3. Scorecard"></a>3. Scorecard</h2><h3 id="Example-Prompt-2"><a href="#Example-Prompt-2" class="headerlink" title="Example Prompt:"></a>Example Prompt:</h3><p>Can you generate output in a scorecard format on how apple stocks performed against tesla in past 5 years.</p>
-<p><img src="/./pic/chat-03.jfif"></p>
+<p><img src="/./ChatGPT-11-format/chat-03.jfif"></p>
 <h2 id="4-JSON"><a href="#4-JSON" class="headerlink" title="4. JSON"></a>4. JSON</h2><h3 id="Example-Prompt-3"><a href="#Example-Prompt-3" class="headerlink" title="Example Prompt:"></a>Example Prompt:</h3><p>Can you provide details of the last 2 FIFA world cup winners in JSON format? </p>
 <p>I want the following to include a date, opponent name, winner name, score, and stadium name.</p>
 <p><img src="/./pic/chat-04.jfif"></p>
